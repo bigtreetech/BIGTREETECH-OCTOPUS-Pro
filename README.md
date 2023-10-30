@@ -30,7 +30,8 @@
   4. The pin arrangement of raspberry pi header is modified to be exactly the same as raspberry pi. From top to bottom: `5V 5V GND RX TX`.
 
 ## Firmware
-  * The IO of Octopus-Pro and Octopus V1.0 / V1.1 are the same, except the IO of proximity switch `Probe` port is no longer multiplexed with Bltouch and is modified to a separate IO `PC5`. Other settings are the same as Octopus V1.0 / V1.1. Please refer to [Octopus V1.0/V1.1 here](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)
+  * The IO of Octopus-Pro V1.0 and Octopus (non-pro) V1.0 / V1.1 are the same, except the IO of proximity switch `Probe` port is no longer multiplexed with Bltouch and is modified to a separate IO `PC5`. Please refer to [Octopus V1.0/V1.1 here](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)
+  * The IO of the Octopus-Pro V1.1 is different with the differences being shown in the table above.
 
 ## Review
   * You can find a complete review with detailed features of our electronics in [Spanish](https://3dwork.io/btt-octopus-pro) and [English](https://3dwork.io/en/btt-octopus-pro) on [3dwork.io](https://3dwork.io/).
