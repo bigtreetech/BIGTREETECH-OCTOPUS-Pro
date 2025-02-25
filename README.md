@@ -30,6 +30,7 @@
   4. The pin arrangement of raspberry pi header is modified to be exactly the same as raspberry pi. From top to bottom: `5V 5V GND RX TX`.
 
 ## Firmware
+  * The bootloaders of all octopus and octopus pro boards are the same for any given MCU variant. You can find them here with instructions: https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/tree/master/Firmware/DFU%20Update%20bootloader/bootloader
   * The IO of Octopus-Pro V1.0 and Octopus (non-pro) V1.0 / V1.1 are the same, except the IO of proximity switch `Probe` port is no longer multiplexed with Bltouch and is modified to a separate IO `PC5`. Please refer to [Octopus V1.0/V1.1 here](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)
   * The IO of the Octopus-Pro V1.1 is different with the differences being shown in the table above.
 
