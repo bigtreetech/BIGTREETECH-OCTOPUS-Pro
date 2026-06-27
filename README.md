@@ -8,7 +8,7 @@
   -- | -- | --
   HE0 | PA2  | PA0
   HE2 | PB10  | PB0
-  Motor4-EN | PA0  | PA2
+  Motor3-EN | PA0  | PA2
   RGB | PB0  | PB10
 
 * CAN bus interface sub model
